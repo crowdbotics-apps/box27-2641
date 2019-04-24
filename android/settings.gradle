@@ -1,0 +1,3 @@
+rootProject.name = 'box27_2641'
+
+include ':app'
